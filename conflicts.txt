@@ -1,3 +1,5 @@
 This is just example of conflicts this issue happens only when multiple people are working together in the file and there is changes in central repository and without pushing the changes 
 
 you are pushing the changes that is the reason this comes in the picture
+
+to avoid conflicts always take git pull whenever you are pushing 
