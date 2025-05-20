@@ -1,0 +1,22 @@
+git stash 
+
+=========================
+
+This is used to restore the files in working directory rather committing or saving anything so this works when you dont want to 
+push the changes and save it rather discarding the changes it will save in working directory without making any files modification
+
+
+<<<<<<< Updated upstream
+
+
+
+//Story 131
+
+This is post the version of story 131 and this commit will go first and it will not reflect previous 
+story 121 changes 
+=======
+//Story 121
+Now check the status before committing and discarding the changes
+
+commands : git stash 
+>>>>>>> Stashed changes
