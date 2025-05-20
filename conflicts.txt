@@ -2,4 +2,21 @@ This is just example of conflicts this issue happens only when multiple people a
 
 you are pushing the changes that is the reason this comes in the picture
 
+<<<<<<< HEAD
 to avoid conflicts always take git pull whenever you are pushing 
+=======
+In day to day activity it comes 
+
+This is below error which comes : 
+
+$ git push
+To https://github.com/khanhammad1991/de.git
+ ! [rejected]        devops -> devops (fetch first)
+error: failed to push some refs to 'https://github.com/khanhammad1991/de.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+>>>>>>> a622b2a0f6ec67f7e5aa94f84ea1b02b1bf7490e
